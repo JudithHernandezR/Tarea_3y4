@@ -18,7 +18,7 @@ Es también por así llamarlo la clase principal de un programa, seria la clase 
 
 ***Herencia simple:*** La herencia simple es una relación entre una clase padre (clase base) y una clase hija (clase derivada)  La herencia es simple cuando la clase derivada que estamos considerando sólo tiene una clase base
 
-***Herencia Multiple:***La herencia múltiple se encuentra en aquellos casos en los que una clase derivada tiene varias clases base (al menos, más de una).
+***Herencia Multiple:*** La herencia múltiple se encuentra en aquellos casos en los que una clase derivada tiene varias clases base (al menos, más de una).
 
 5. Escribe el programa de Figura como vimos en clase, donde agregues varios tipos de figuras a una lista y recorre la lista llamando a un metodo de las figuras, además :
     1. Se sobrecarguen los constructores y se acceda a los constructores de la clase base 
